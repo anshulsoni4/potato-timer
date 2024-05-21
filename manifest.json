@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Pomodoro Timer",
+    "name": "PotatoDoro Timer",
     "version": "1.0",
     "description": "A simple Pomodoro Timer with sound alerts.",
     "permissions": ["notifications"],
@@ -8,7 +8,7 @@
       "service_worker": "background.js"
     },
     "action": {
-      "default_title": "Pomodoro Timer"
+      "default_title": "PotatoDoro Timer"
     }
   }
   
